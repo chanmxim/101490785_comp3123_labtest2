@@ -6,6 +6,9 @@ A simple weather dashboard built with **React + Vite + Bootstrap + Axios** that 
 - 4-day forecast
 
 ---
+## Deployment
+https://101490785-comp3123-labtest2.vercel.app/
+---
 
 ## 🌍 Weather API Used
 The project uses the **OpenWeatherMap API**:
